@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @daniv-main
+- 👋 Hi, I’m @daniv
 - 👀 I’m interested in AI and Big Data projects
 - 🌱 I’m currently learning python, AI libs and data processing envs!
 - 📫 How to reach me danielvillegasce@gmail.com

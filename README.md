@@ -2,6 +2,7 @@
 - 👀 I’m interested in AI and Big Data projects
 - 🌱 I’m currently learning python, AI libs and data processing envs!
 - 📫 How to reach me danielvillegasce@gmail.com
+
         (__)
        (oo)
    /------\/  

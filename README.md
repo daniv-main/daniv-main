@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @daniv
-- 👀 I’m interested in AI and Big Data projects
+- 👀 I’m interested in AI, Big Data  and Computer Vision projects
 - 🌱 I’m currently learning python, AI libs and data processing envs!
 - 📫 How to reach me danielvillegasce@gmail.com
 
